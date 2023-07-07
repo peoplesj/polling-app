@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "slack-champions-2023": {
+      "name": "slack-champions-2023",
+      "app_id": "A05FKD9EPU6",
+      "team_id": "T05BSCH35FH",
+      "IsDev": false,
+      "InstallStatus": 0
+    }
+  },
+  "default": "slack-champions-2023"
+}
